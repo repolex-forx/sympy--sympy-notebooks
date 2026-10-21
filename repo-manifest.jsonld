@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sympy/sympy-notebooks/commit/1878319fce86df62bb8944492b8a211e259c8078",
       "git:hexsha": "1878319fce86df62bb8944492b8a211e259c8078",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
