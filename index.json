@@ -1,0 +1,11 @@
+{
+  "org": "sympy",
+  "repo": "sympy-notebooks",
+  "versions": [
+    {
+      "commit": "1878319fce86df62bb8944492b8a211e259c8078",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:16:12.915701+00:00"
+    }
+  ]
+}
